@@ -6,7 +6,7 @@
 
 - Enonomia das APIs
 
-- Escalabilidade, disponibilidad e ***performance são questões centrais***.
+- Escalabilidade, disponibilidade e ***performance são questões centrais***.
 
 #### E como podemos obter mais performance ?
 
