@@ -29,4 +29,4 @@
 - Utilizando técnicas de compressão
 
 - [x] [Dicas de performance para APIs REST no APS.NET Core](https://renatogroffe.medium.com/dicas-de-performance-para-apis-rest-no-asp-net-core-f2f3c66042c8)
-
+- [x] [APIs REST em ASP.NET Core - Guia de Referência](https://renatogroffe.medium.com/apis-rest-em-asp-net-core-guia-de-refer%C3%AAncia-3e542d02bfb6)
