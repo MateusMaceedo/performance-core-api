@@ -25,7 +25,8 @@
 #### Como reduzir o tamanho das respostas ?
 
 > Removendo valores nulos
-<h1 align="center">
+
+<h1 align="justify">
   No desevolvimento de API da camada backend, a maioria dos desenvolvedores não fazem uma cobertura completa e assertiva dos valores nullos, pensando em entregar mais rapido a solução ou até gerar um valor de forma mais rapida, acaba passando batido essa validação tão importante. É muito relevante destacar que essa pratica esta totalmente ligada ao core da aplicação, se tratando de uma aplicação backend desenvolvidade em .NET core ou afins, por padrão default, temos os valores nullos em campos não tratados em no JSON, a solução seria tratar esses valores e ignorar, fazendo assim a aplicação gerar leitura somente para os valores que realmente importa, trazendo uma maior performance da API para a leitura, tendo em vista que foi diminuido os dados travegados e os dados a serem enviados no roteamento do backend.
 </h1>
 
