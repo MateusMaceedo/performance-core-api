@@ -24,9 +24,14 @@
 
 #### Como reduzir o tamanho das respostas ?
 
-- Removendo valores nulos
+> Removendo valores nulos
+  No desevolvimento de API da camada backend, a maioria dos desenvolvedores não fazem uma cobertura completa e assertiva dos valores nullos, pensando em entregar mais rapido a solução ou até gerar um valor de forma mais rapida, acaba passando batido essa validação tão importante. É muito relevante destacar que essa pratica esta totalmente ligada ao core da aplicação, se tratando de uma aplicação backend desenvolvidade em .NET core ou afins, por padrão default, temos os valores nullos em campos não tratados em no JSON, a solução seria tratar esses valores e ignorar, fazendo assim a aplicação gerar leitura somente para os valores que realmente importa, trazendo uma maior performance da API para a leitura, tendo em vista que foi diminuido os dados travegados e os dados a serem enviados no roteamento do backend.
 
-- Utilizando técnicas de compressão
+> Utilizando técnicas de compressão
+
+
+
+> Cache, banco de dados em mémoria
 
 - [x] [Dicas de performance para APIs REST no APS.NET Core](https://renatogroffe.medium.com/dicas-de-performance-para-apis-rest-no-asp-net-core-f2f3c66042c8)
 - [x] [APIs REST em ASP.NET Core - Guia de Referência](https://renatogroffe.medium.com/apis-rest-em-asp-net-core-guia-de-refer%C3%AAncia-3e542d02bfb6)
