@@ -31,7 +31,8 @@
 <p>
 
 > Utilizando técnicas de compressão
-
+  
+[Compressão de respostas em APIs ASP.Net Core](https://imasters.com.br/dotnet/compressao-de-respostas-em-apis-asp-net-core)
 
 
 > Cache, banco de dados em mémoria
