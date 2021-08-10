@@ -33,8 +33,8 @@
 > Utilizando técnicas de compressão
   
 - [Compressão de respostas em APIs ASP.Net Core](https://imasters.com.br/dotnet/compressao-de-respostas-em-apis-asp-net-core)
-- [Compressão utilizando o GZIP]()
-- [Compressão utilizando o BROTI]()
+- [Compressão utilizando o GZIP](https://github.com/renatogroffe/ASPNETCore2.1_Compressao-RemocaoNulls/tree/master/GZip/APIProdutos)
+- [Compressão utilizando o BROTI](https://github.com/renatogroffe/ASPNETCore2.1_Compressao-RemocaoNulls/tree/master/Brotli/APIProdutos)
 
 > Cache, banco de dados em mémoria
 
